@@ -7,7 +7,13 @@ This repo is basically collection of resources that I found useful for my journe
 - [Javascript.info](https://javascript.info/): The Modern JavaScript Tutorial
 
 ### Courses
-- [JavaScript: Understanding the Weird Parts](https://www.udemy.com/share/101XjU3@wlFjlhWck6fSuDZ5rCjL4xgD0mpvO9B39B5WzSxnWjQYL9gJTS7hOiXHtRsCckg5/) The best course I found for learning Javascript under the hood.
+- [JavaScript - Understanding the Weird Parts](https://www.udemy.com/share/101XjU3@wlFjlhWck6fSuDZ5rCjL4xgD0mpvO9B39B5WzSxnWjQYL9gJTS7hOiXHtRsCckg5/): Personally, the best course for learning Javascript.
+
+## TypeScript
+### Reading
+- [TypeScript Docs](https://www.typescriptlang.org/docs/): Official TypeScript docs.
+- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+
 ## CSS
 
 ### Tailwind CSS
