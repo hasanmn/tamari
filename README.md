@@ -7,7 +7,7 @@ This repo is basically collection of resources that I found useful for my journe
 - [Javascript.info](https://javascript.info/): The Modern JavaScript Tutorial
 
 ### Courses
-- [JavaScript - Understanding the Weird Parts](https://www.udemy.com/share/101XjU3@wlFjlhWck6fSuDZ5rCjL4xgD0mpvO9B39B5WzSxnWjQYL9gJTS7hOiXHtRsCckg5/): Personally, the best course for learning Javascript.
+- [JavaScript - Understanding the Weird Parts](https://www.udemy.com/share/101XjU3@wlFjlhWck6fSuDZ5rCjL4xgD0mpvO9B39B5WzSxnWjQYL9gJTS7hOiXHtRsCckg5/): Personally, the best course for learning Javascript (Not for beginner).
 
 ## TypeScript
 ### Reading
@@ -20,6 +20,12 @@ This repo is basically collection of resources that I found useful for my journe
 - [Tailwind CSS](https://tailwindcss.com/): Official Tailwind CSS homepage
 - [daisyUI](https://daisyui.com/): Tailwind CSS Components
 - [Meraki UI](https://merakiui.com/): Beautiful Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode.
+
+## Resources
+### Illustrations
+- [undraw.co](https://undraw.co/illustrations)
+- [drawkit.com](https://drawkit.com/)
+- [avataaaars](https://getavataaars.com/)
 
 
 ## Tools
